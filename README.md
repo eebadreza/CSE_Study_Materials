@@ -114,38 +114,81 @@ Welcome to Semester 4! In this section, you'll find study materials for your fou
 Welcome to Semester 5! In this section, you'll find study materials for your fifth-semester courses.
 ### Courses
 
-- [Course 1 Title](semester-5/course-1/)
-  - [Lecture Notes](semester-5/course-1/lecture-notes.pdf)
-  - [Assignments](semester-5/course-1/assignments/)
-- [Course 2 Title](semester-5/course-2/)
-  - [Lecture Notes](semester-5/course-2/lecture-notes.pdf)
-  - [Assignments](semester-5/course-2/assignments/)
+### 1. Operating Systems Workshop
+- [Lecture Notes](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+
+### 2. Programming in Python
+- [Lecture Notes](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+
+### 3. Computer Networks
+- [Lecture Notes](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+
+### 4. Design of Operating Systems
+- [Lecture Notes](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+
+### 5. Advanced Discrete Mathematics
+- [Lecture Notes](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+
+### 6. Theory of Computation
+- [Lecture Notes](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1av7gJM36CzKrrEDGyIKikQvRmTn_547o?usp=sharing)
 
 ## Semester VI
 Welcome to Semester 6! In this section, you'll find study materials for your sixth-semester courses.
 ### Courses
 
-- [Course 1 Title](semester-6/course-1/)
-  - [Lecture Notes](semester-6/course-1/lecture-notes.pdf)
-  - [Assignments](semester-6/course-1/assignments/)
-- [Course 2 Title](semester-6/course-2/)
-  - [Lecture Notes](semester-6/course-2/lecture-notes.pdf)
-  - [Assignments](semester-6/course-2/assignments/)
+### 1. Programming Languages and Compiler Design
+- [Lecture Notes](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+
+### 2. Introduction to Data Science using Python
+- [Lecture Notes](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+
+### 3. Computer Network Workshop
+- [Lecture Notes](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+
+### 4. Introduction to Databases
+- [Lecture Notes](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+
+### 5. Cryptography and Network Security
+- [Lecture Notes](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1-lcYDhbbuwM3NeyLgDspRWK6jPupNeFp?usp=sharing)
+
 
 ## Semester VII
 Welcome to Semester 7! In this section, you'll find study materials for your seventh-semester courses.
 ### Courses
 
-- [Course 1 Title](semester-7/course-1/)
-  - [Lecture Notes](semester-7/course-1/lecture-notes.pdf)
-  - [Assignments](semester-7/course-1/assignments/)
-- [Course 2 Title](semester-7/course-2/)
-  - [Lecture Notes](semester-7/course-2/lecture-notes.pdf)
-  - [Assignments](semester-7/course-2/assignments/)
+### 1. Data Mining
+- [Lecture Notes](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
 
+### 2. Information Retrieval
+- [Lecture Notes](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
 
+### 3. Distributed Systems
+- [Lecture Notes](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
 
-Explore the materials for Semester 2, and don't forget to contribute if you have materials to add!
+### 4. Cloud Computing
+- [Lecture Notes](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+
+### 5. Internet of Things (IoT)
+- [Lecture Notes](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+
+### 6. Topics in Environmental Studies
+- [Course Materials](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
 
 ## How to Contribute
 
