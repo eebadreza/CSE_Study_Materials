@@ -2,6 +2,8 @@
 
 Welcome to the Institute of Technical Education and Research College Study Materials Repository! This repository is a collection of Study materials for all semesters at ITER College. Whether you're a current student looking for resources to excel in your courses or an alumni who wants to contribute back to the college community, this is the place for you.
 
+- [Semester Wise](https://drive.google.com/drive/folders/1nDNdYWO7qgZiFtDYZdrRECIPDtIXOhzh?usp=sharing)
+
 ## Table of Contents
 
 - [Semester I](#semester-i)
