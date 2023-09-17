@@ -12,52 +12,103 @@ Welcome to the Institute of Technical Education and Research College Study Mater
 - [Semester VI](#semester-vi)
 - [Semester VII](#semester-vii)
 
----
+Please feel free to explore and download the study materials for these courses. If you have any additional resources or notes, consider contributing to this repository to help your fellow students. Happy learning!
 
 ## Semester I
 Welcome to Semester 1! In this section, you'll find study materials for your first-semester courses.
 ### Courses
 
-- [Course 1 Title](semester-1/course-1/)
-  - [Lecture Notes](semester-1/course-1/lecture-notes.pdf)
-  - [Assignments](semester-1/course-1/assignments/)
-- [Course 2 Title](semester-1/course-2/)
-  - [Lecture Notes](semester-1/course-2/lecture-notes.pdf)
-  - [Assignments](semester-1/course-2/assignments/)
- 
+### 1. Discrete Mathematics
+- [Lecture Notes](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+
+### 2. Calculus A
+- [Lecture Notes](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
   
+### 3. Introduction to Computer Programming
+- [Lecture Notes](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+
+### 4. University Physics Mechanics
+- [Lecture Notes](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+
+### 5. Communication and Critical Thinking
+- [Lecture Notes](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1Bgt8CYk89pnsQhMouGNJwT41G-pahDvr?usp=sharing)
+ 
 ## Semester II
 Welcome to Semester 2! In this section, you'll find study materials for your second-semester courses.
 ### Courses
 
-- [Course 1 Title](semester-2/course-1/)
-  - [Lecture Notes](semester-2/course-1/lecture-notes.pdf)
-  - [Assignments](semester-2/course-1/assignments/)
-- [Course 2 Title](semester-2/course-2/)
-  - [Lecture Notes](semester-2/course-2/lecture-notes.pdf)
-  - [Assignments](semester-2/course-2/assignments/)
+### 1. Data Structures and Algorithms
+- [Lecture Notes](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+
+### 2. Calculus B
+- [Lecture Notes](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+
+### 3. Introduction to Graph Theory
+- [Lecture Notes](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+
+### 4. University Physics Electricity and Electromagnetism
+- [Lecture Notes](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+
+### 5. Principles of Microeconomics
+- [Lecture Notes](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YxOQiYomK5jRpPYCp2IWKt3N1l7eVmj8?usp=sharing)
 
 ## Semester III
 Welcome to Semester 3! In this section, you'll find study materials for your third-semester courses.
 ### Courses
 
-- [Course 1 Title](semester-3/course-1/)
-  - [Lecture Notes](semester-3/course-1/lecture-notes.pdf)
-  - [Assignments](semester-3/course-1/assignments/)
-- [Course 2 Title](semester-3/course-2/)
-  - [Lecture Notes](semester-3/course-2/lecture-notes.pdf)
-  - [Assignments](semester-3/course-2/assignments/)
+### 1. Computer Science Workshop
+- [Lecture Notes](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+
+### 2. Digital Logic Design
+- [Lecture Notes](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+
+### 3. Algorithm Design 1
+- [Lecture Notes](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+
+### 4. Probability and Statistics
+- [Lecture Notes](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+
+### 5. Principles of Macroeconomics
+- [Lecture Notes](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1YYoQiITjqykXGPxoFGSsNHT2gvwPhkl5?usp=sharing)
 
 ## Semester IV
 Welcome to Semester 4! In this section, you'll find study materials for your fourth-semester courses.
 ### Courses
 
-- [Course 1 Title](semester-4/course-1/)
-  - [Lecture Notes](semester-4/course-1/lecture-notes.pdf)
-  - [Assignments](semester-4/course-1/assignments/)
-- [Course 2 Title](semester-4/course-2/)
-  - [Lecture Notes](semester-4/course-2/lecture-notes.pdf)
-  - [Assignments](semester-4/course-2/assignments/)
+### 1. Computer Science Workshop 2
+- [Lecture Notes](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+
+### 2. Computer Organization and Architecture
+- [Lecture Notes](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+
+### 3. Algorithm Design 2
+- [Lecture Notes](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+
+### 4. Applied Linear Algebra
+- [Lecture Notes](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+
+### 5. Universal Human Values
+- [Lecture Notes](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
+- [Assignments](https://drive.google.com/drive/folders/1wWLHEH2aeMe3tpZmXtlnfyjqkRF9DE_U?usp=sharing)
 
 ## Semester V
 Welcome to Semester 5! In this section, you'll find study materials for your fifth-semester courses.
