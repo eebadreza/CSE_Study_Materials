@@ -41,11 +41,11 @@ Welcome to Semester 6! In this section, you'll find study materials for your six
 
 ## Semester VII
 Welcome to Semester 7! In this section, you'll find study materials for your seventh-semester courses.
-- [Material Link](https://drive.google.com/drive/folders/1aho9o6z-AljwcpKy6n_eDIKA8Lzv1ygT?usp=sharing)
+- [Material Link](https://drive.google.com/drive/folders/1enMJ0RVN_kBYl5T86NPB0jqlF8A81PCn?usp=sharing)
 
 ## Semester VIII
 Welcome to Semester 8! In this section, you'll find study materials for your seventh-semester courses.
-- [Material Link]()
+- [Material Link](https://drive.google.com/drive/folders/1pjFKPlz-oq5J1e5Newu3sHfL2qGc-ja1?usp=sharing)
 
 
 
